@@ -167,7 +167,7 @@ $$\begin{aligned}{\partial \rho  \over \partial t}+\nabla \cdot (\rho \mathbf{v}
 
 <div class="multiCol">
 <div class="col">
-<div class="fig-container" data-style="height: 600px;" data-file="figures/kh_example.html" data-markdown=true>
+<div class="fig-container" data-style="height: 600px;" data-file="figures/kh_example.html" data-scroll="no" data-markdown=true>
 </div>
 </div>
 <div class="col" data-markdown=true>
